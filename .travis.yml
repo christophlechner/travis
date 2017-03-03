@@ -1,2 +1,3 @@
 #Travis CI project descriptor
 language: java
+jdk: oraclejdk8
