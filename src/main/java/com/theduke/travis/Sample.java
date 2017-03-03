@@ -12,7 +12,7 @@ package com.theduke.travis;
 public class Sample {
     
     public static void main(String[] args) {
-        System.out.println("com.theduke.travis.Sample.main()");
+        System.out.println("com.theduke.travis.Sample.main() ok");
     }
     
 }
