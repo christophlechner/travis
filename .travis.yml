@@ -1,4 +1,4 @@
 #Travis CI project descriptor
 language: java
 jdk: oraclejdk8
-install: mvn build
+script: bundle exec mvn build
