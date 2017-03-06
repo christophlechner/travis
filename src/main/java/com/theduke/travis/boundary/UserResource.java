@@ -3,16 +3,15 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package com.theduke.travis;
+package com.theduke.travis.boundary;
+
+import javax.ws.rs.Path;
 
 /**
  *
  * @author Christoph
  */
-public class Sample {
-    
-    public static void main(String[] args) {
-        System.out.println("com.theduke.travis.Sample.main() ok");
-    }
+@Path("user")
+public class UserResource {
     
 }
